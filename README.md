@@ -1,0 +1,2 @@
+# PDFTextInspector
+PDFファイルからテキストを抽出
